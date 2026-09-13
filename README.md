@@ -132,7 +132,7 @@ app.
 
 ## Install (desktop app, permanent)
 
-Drop `Duckey-Permanent.bat` next to `duckey.js` and run it once. It patches
+Drop `Duckey.bat` next to `duckey.js` and run it once. It patches
 the current Discord install:
 
 ```
